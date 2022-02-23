@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the last voyage to Bermudas, in the ship Marygold, S.P. commander by J.H ... ; begun November the twelfth, 1670, and ending May the third, 1671 with allowance.</title>
+            <author>J. H. (John Hardy)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45540</idno>
+            <idno type="STC">Wing H706</idno>
+            <idno type="STC">ESTC R9916</idno>
+            <idno type="EEBO-CITATION">11811128</idno>
+            <idno type="OCLC">ocm 11811128</idno>
+            <idno type="VID">49521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 495:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the last voyage to Bermudas, in the ship Marygold, S.P. commander by J.H ... ; begun November the twelfth, 1670, and ending May the third, 1671 with allowance.</title>
+                  <author>J. H. (John Hardy)</author>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynald,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Dedication, "to the Right Honorable the Governor and company of London for plantation of the Summer islands", signed: John Hardy; dedications to the commander and officers of the Marygold signed: John Hardie.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bermuda Islands --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49521:1"/>
+            <pb facs="tcp:49521:1"/>
+            <p>A DESCRIPTION OF THE Laſt Voyage TO BERMUDAS, In the Ship MARYGOLD, <hi>S. P.</hi> Commander;</p>
+            <p>By <hi>J. H.</hi> 
+               <gap reason="foreign" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>Begun <hi>Nobember</hi> the twelfth, 1670. And ending <hi>May</hi> the third, 1671.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> printed for <hi>Rowland Reynald</hi> at the <hi>Sun</hi> and <hi>Bible</hi> in the <hi>Poultrey</hi> 1671.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49521:2"/>
+            <pb facs="tcp:49521:2"/>
+            <head>TO THE RIGHT HONORABLE, THE Governor and Company OF LONDON, For Plantation of the Summer Iſlands.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>S richeſt Diamonds when en<g ref="char:EOLhyphen"/>ſhrin'd in Gold,</l>
+               <l>And ſet in darkeſt Foyls, more Rays unfold,</l>
+               <l>So ſtands that beauteous <hi>ISLE</hi> on Rocks and Sands,</l>
+               <l>Encircled with Great <hi>Neptune</hi>'s watry Bands;</l>
+               <pb facs="tcp:49521:3"/>
+               <l>Who when impell'd with Guſts, make haſte before,</l>
+               <l>Daſhing themſelves, Enamel all the Shore:</l>
+               <l>This pleaſant <hi>PILE</hi>'s the Subject of my <hi>Muſe,</hi>
+               </l>
+               <l>That late from raging <hi>Seas</hi> ſuffer'd abuſe,</l>
+               <l>Now enters Port, and after dreadful Toyls,</l>
+               <l>To You <hi>(Renowned Sirs)</hi> gives up her Spoyls.</l>
+               <l>The Matter, Place, Occaſion, every Section</l>
+               <l>Are Yours, and therefore claims your juſt Protection.</l>
+               <l>Accept <hi>(Great Sirs)</hi> Your own; for by Your Eye</l>
+               <l>Theſe Cabbin Sea-ſick Lines muſt live or die.</l>
+            </lg>
+            <closer>
+               <signed>Your Honors moſt humble Servant, John Hardy. <gap reason="foreign" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49521:3"/>
+            <head>To his Honored Friend, CAPTAIN S. P. Commander of the Good Ship MARYGOLD, 1670/71.</head>
+            <lg>
+               <l>
+                  <hi>MOſt noble Captain, under whoſe Com<g ref="char:EOLhyphen"/>mand,</hi>
+               </l>
+               <l>
+                  <hi>I have been Servant both by Sea and Land,</hi>
+               </l>
+               <l>
+                  <hi>Peruſe theſe Lines, which though they do not ſhow</hi>
+               </l>
+               <l>
+                  <hi>Wonders unto you, yet they'r true, you know,</hi>
+               </l>
+               <l>
+                  <hi>Your ſelf enduring many a bitter Blaſt,</hi>
+               </l>
+               <l>
+                  <hi>From the firſt of the Voyage, to the laſt.</hi>
+               </l>
+               <l>
+                  <hi>Read and accept them, ſo deſires your Friend</hi>
+               </l>
+               <l>
+                  <hi>Who is, and will be, till his Life doth end.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>John Hardie.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49521:4"/>
+            <head>To his loving Friends, Mr. T. H. and P. H. Maſters Mates of the Ship MARYGOLD.</head>
+            <lg>
+               <l>
+                  <hi>MOſt loving Friends, to you I do indite</hi>
+               </l>
+               <l>
+                  <hi>This my ſmall</hi> Journal, <hi>you being in ſight</hi>
+               </l>
+               <l>
+                  <hi>Of what is mention'd in it: Don't expect</hi>
+               </l>
+               <l>
+                  <hi>Here</hi> Signs <hi>and</hi> Tangents, <hi>or a Courſe direct</hi>
+               </l>
+               <l>
+                  <hi>Unto this Iſland: If ſo, I a fool</hi>
+               </l>
+               <l>
+                  <hi>Should be by you accounted, in the School</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Mathematicks <hi>never being bred,</hi>
+               </l>
+               <l>
+                  <hi>Nor ever heard Myſterious Lectures read</hi>
+               </l>
+               <l>
+                  <hi>Concerning</hi> Navigation: <hi>Idle times</hi>
+               </l>
+               <l>
+                  <hi>Was the true Product of theſe fooliſh Rhimes,</hi>
+               </l>
+               <l>
+                  <hi>Which craves Acceptance from your friendly hand,</hi>
+               </l>
+               <l>
+                  <hi>By him who is your Friend for to command,</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>John Hardie.</signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:49521:4"/>
+            <head>The Prologue.</head>
+            <lg>
+               <l>ASſiſt Great <hi>Jove,</hi> and help my wandring <hi>Muſe,</hi>
+               </l>
+               <l>Poetick Strains into my Quill infuſe,</l>
+               <l>To ſing the Truth, the Praiſes, and the Fame</l>
+               <l>Of th' Iſle <hi>Bermuda,</hi> call'd ſo from the Name</l>
+               <l>Of Spaniſh <hi>Jam. Bermudas:</hi>
+                  <note n="*" place="bottom">
+                     <hi>According to</hi> Heylin's Coſmography <hi>it was found out by a</hi> Spaniard, <hi>who was there caſt away; then by an</hi> Engliſh-man, <hi>whoſe name was</hi> Forbiſher; <hi>laſtly inhabited by Captain</hi> Summers, <hi>who dying in this Iſland was Embalm'd, and his Body carryed into</hi> England, <hi>but his Bowels buried at St.</hi> Georges <hi>Iſland near the</hi> State-Houſe, <hi>as they name it: It hath not been long ſince Inhabited; for there was found Engraven on a</hi> Palmeta-Tree <hi>theſe Words, which are ſet up in the Governors Hall over his Chair:</hi>
+                  </note> though of late</l>
+               <l>Its Name was chang'd by <hi>Summers</hi> happy fate,</l>
+               <l>Whoſe Heart and Bowels buried there, to be</l>
+               <l>A Witneſs of it to Eternity.</l>
+            </lg>
+            <pb facs="tcp:49521:5"/>
+            <p>CONDITUR IN HOC LOCO NAVIS PER RICHARDUM FRO<g ref="char:EOLhyphen"/>BISHERUM ONERIS 70. QUAE VIRGINIAE DESTINATOR NOS OMNES HINC TRANSPORTA<g ref="char:EOLhyphen"/>BAT.</p>
+            <closer>
+               <dateline>
+                  <hi>ANNO</hi> 
+                  <date>1610. <hi>MAY</hi> 4.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="voyage_account">
+            <div type="poem">
+               <pb n="1" facs="tcp:49521:5"/>
+               <head>OUR VOYAGE Outward bound.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Hen cold <hi>November</hi> with a hoary Head,</l>
+                  <l>The fertile Earth with Snow had overſpread,</l>
+                  <l>Joyn'd with white Froſt, upon its twelfth day, we</l>
+                  <l>Set ſayl from <hi>Graveſend,</hi> being bound to ſee</l>
+                  <l>
+                     <hi>Bermudas,</hi> in th' Ship <hi>Marygold;</hi> which Flower</l>
+                  <l>O' all the Deities take in your Power,</l>
+                  <l>And from all Dangers ſafely her defend,</l>
+                  <l>Granting her Voyage may have happy end.</l>
+                  <pb n="2" facs="tcp:49521:6"/>
+                  <l>Into the <hi>Hope</hi> we got, and there make ſtay</l>
+                  <l>Two Nights, when with a fair wind we weigh</l>
+                  <l>Our Anchors, ſetting Sail into the <hi>Downs,</hi>
+                  </l>
+                  <l>Where ſhortly we arriv'd, which was the Bounds</l>
+                  <l>For Shipping granted then, till mighty <hi>Jove</hi>
+                  </l>
+                  <l>Sent a cold quaking North-wind from above;</l>
+                  <l>After twice ſeven days ſpace again we ſet</l>
+                  <l>Our Sayle, and in the term of two days get</l>
+                  <l>Near to a point of Land is call'd the <hi>Start,</hi>
+                  </l>
+                  <l>From which in the dark Ev'ning we did part,</l>
+                  <l>
+                     <hi>Jove</hi>'s aid imploring, for now nothing we</l>
+                  <l>Behold, but briny Billows of the Sea:</l>
+                  <l>When ſhortly, for not fifty Leagues or more,</l>
+                  <l>We gotten had from Noble <hi>Englands</hi> ſhore,</l>
+                  <l>But <hi>Aeolus</hi> that too incoaſtant God,</l>
+                  <l>Thought good to puniſh us, the bluſtring Rod</l>
+                  <l>Of Weſt winds Fury, and dark Nights together</l>
+                  <l>Made cloudy, cold, and too inconſtant weather:</l>
+                  <l>Now <hi>Neptune</hi> with his furious Waves doth kiſs,</l>
+                  <l>And toſs our <hi>Marygold,</hi> but 'tis our bliſs</l>
+                  <l>She's good condition'd, though Skies-mounting waves</l>
+                  <l>Do threaten death, &amp; ſeem to make our Graves</l>
+                  <pb n="3" facs="tcp:49521:6"/>
+                  <l>In it's in ſatiate Bowels, her rib'd Sides</l>
+                  <l>Over the white curl'd Billows ſwiftly glides;</l>
+                  <l>And although over all ſalt Seas ſhe takes,</l>
+                  <l>Yet little water then ſhe's wont ſhe makes;</l>
+                  <l>It being Winter time, Reaſon doth guide</l>
+                  <l>Unto the Southward Mariners to ſlide,</l>
+                  <l>To make the Proverb good, <hi>He that doth run</hi>
+                  </l>
+                  <l>
+                     <hi>The fartheſt way about, is neereſt home.</hi>
+                  </l>
+                  <l>Unto which purpoſe we our Courſe do take,</l>
+                  <l>Some of the <hi>Charibby Iſlands</hi> for to make,</l>
+                  <l>And croſs
+<note n="(a)" place="bottom">
+                        <hi>Thinking to croſs the</hi> Tropick Cancer, <hi>and make</hi> Anguilla Sombrero, <hi>or ſome of the</hi> Virgin-Iſlands.</note> the <hi>Tropick Cancer,</hi> but the winde</l>
+                  <l>Prov'd to us more auſpicious and kinde</l>
+                  <l>Than we expect, to our Port we incline,</l>
+                  <l>So ſtraight our Courſe as if it were a Line</l>
+                  <l>For many days, when as that at the laſt,</l>
+                  <l>Bold <hi>Boreas</hi> from his Den ſends cruel blaſt</l>
+                  <l>From the <hi>Weſtern Iſlands,</hi> at which rocky Land</l>
+                  <l>I think he keeps his Court, and doth command</l>
+                  <pb n="4" facs="tcp:49521:7"/>
+                  <l>All Winter time, for near't we always muſt</l>
+                  <l>Expect to have ſharp ſtorms, &amp; thundering guſt</l>
+                  <l>A week or more expir'd in this ſame weather,</l>
+                  <l>A pleaſant day came, and fair wind together;</l>
+                  <l>So <hi>Dolphins</hi> ſwiftly through the Ocean glide,</l>
+                  <l>To prey on flying
+<note n="(b)" place="bottom">Dolphins when once ſtruck and brought into the Ship, change their colours very often, till at the laſt they die, and remain a dunniſh colour, and are of this form.</note> Fifiſh ſo near the ſide;</l>
+                  <l>
+                     <figure>
+                        <figDesc>depiction of a flying fish</figDesc>
+                     </figure>
+                  </l>
+                  <l>The Saylors with a Fiſh-gig deeply wound</l>
+                  <l>Their tender bodies, that a deadly ſound</l>
+                  <l>
+                     <figure>
+                        <head>The form of a Fiſh-gig.</head>
+                        <figDesc>depiction of a fishing harpoon</figDesc>
+                     </figure>
+                  </l>
+                  <l>Poſſeſſeth all their parts throughout, the which</l>
+                  <l>Small time a <hi>Proteus</hi> change of colours reach.</l>
+                  <pb n="5" facs="tcp:49521:7"/>
+                  <l>Though Fortune hath been churlîſh at the beſt,</l>
+                  <l>Yet now we're paid with double Intereſt;</l>
+                  <l>For within four times ſeven fair days, we</l>
+                  <l>Long wiſh'd for <hi>Summer Iſlands</hi> plainly ſee;</l>
+                  <l>When as our Captain caus'd a
+<note n="(c)" place="bottom">
+                        <p>
+                           <hi>To fire a Piece of Ordnance, the uſual cuſtom to give warning to the Pilot and Inhabitants that there is the Magazine Ship on the Coaſt, whoſe duty it is to convey into Harbour.</hi>
+                        </p>
+                        <p>
+                           <hi>In</hi> Kings-Caſtle <hi>Harbor, about a Mile and a half from the Shoar.</hi>
+                        </p>
+                     </note> roaring Gun</l>
+                  <l>For to be fir'd, which once being done</l>
+                  <l>A Pilot came aboard, through dangerous Rocks</l>
+                  <l>Us ſafely carrying without any knocks,</l>
+                  <l>Into <hi>Kings Caſtle Harbor,</hi> where doth ſtand</l>
+                  <l>Two Caſtles, entring ſhips for to command;</l>
+                  <l>After ſalutes to either we at laſt</l>
+                  <l>Near Captain <hi>Hubbarbs</hi> Bridge our Anchor caſt;</l>
+                  <l>So <hi>Januaries</hi> twenty ſeventh put end</l>
+                  <l>To dangere outward, which us did attend;</l>
+                  <pb n="6" facs="tcp:49521:8"/>
+                  <l>We now our Sails unbend, and Top-maſt lo're,</l>
+                  <l>And in ſhort time our Goods
+<note n="(d)" place="bottom">
+                        <hi>The cuſtom there is to fetch and bring their Goods aboard, and their Seamen to be at no trouble, as in other places of the</hi> Weſt-Indies.</note> are fetcht aſhore.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The Deſcription of the Iſland.</head>
+               <lg>
+                  <l>WEll at <hi>Bermudas</hi> we arrived are,</l>
+                  <l>After great trouble, pains, guſts, ſtorms, and care;</l>
+                  <l>And now the ſhip ſeems rightly nam'd to be</l>
+                  <l>A Magazine, as term'd, for you may ſee</l>
+                  <l>Some ſelling Linnen cloath, with other knacks,</l>
+                  <l>Which Pedlars uſe to carry in their Packs;</l>
+                  <l>Some Brandy buy, and ſuch like liquid ware,</l>
+                  <l>Others of new Tobacco-pipes have care</l>
+                  <l>To ſtore themſelves, whilſt others do agree</l>
+                  <l>Good to exchange for ſuch Commodity</l>
+                  <l>The Countrey doth afford, and ſome are willing</l>
+                  <l>To ſell their Goods at three pence on the ſhilling</l>
+                  <pb n="7" facs="tcp:49521:8"/>
+                  <l>This time it laſts not long, when ſuddenly</l>
+                  <l>Muſt work all hands, the Iſland-Boats we ſee</l>
+                  <l>Deep loaden with Tobacco, which they bring</l>
+                  <l>Unto the ſide, from whence we take it in.</l>
+                  <l>To give deſcription of theſe ſame
+<note n="(e)" place="bottom">The Iſlands Boats after this Form, carrying five or ſix Cheſts of Tobacco, or more. They lie ſo near the Wind, that they will fetch the ſame place they look up<g ref="char:EOLhyphen"/>on, cloſe hal'd.</note> Boats,</l>
+                  <l>With tripple corner'd Sayls they always float</l>
+                  <l>
+                     <figure>
+                        <figDesc>depiction of a ship</figDesc>
+                     </figure>
+                  </l>
+                  <l>About the Iſlands, in the World there are</l>
+                  <l>None in al points that may with them compare</l>
+                  <l>But leave we now the ſhip till fill'd, take view</l>
+                  <l>Of th' Land, to try if what you heard be true;</l>
+                  <pb n="8" facs="tcp:49521:9"/>
+                  <l>Then to begin; there's Rocky Hills ſo high,</l>
+                  <l>They ſeem for to out-dare the cloudy Sky;</l>
+                  <l>And fertile Vallies during all the year,</l>
+                  <l>Continual Liveries of green do wear;</l>
+                  <l>In which no poyſonous Creature e're hath been</l>
+                  <l>No Adders, Serpents, Toads, or Snakes are ſeen</l>
+                  <l>To prejudice mans health, but it is ſtor'd</l>
+                  <l>With Bieves, Goats, Oxen, Sheep which doth af<g ref="char:EOLhyphen"/>ford</l>
+                  <l>Fine woolly fleeces, with ſuch things as theſe</l>
+                  <l>Thou doſt abound, ty'd
+<note n="(f)" place="bottom">
+                        <hi>Tye all their Cattel, as Horſes, Aſſes, Hogs, Goats, Sheep,</hi> &amp;c. <hi>to Trees, where they feed on the Melli<g ref="char:EOLhyphen"/>lot, and Fennel, round about them.</hi>
+                     </note> to <hi>Palmeta</hi>-trees,</l>
+                  <l>Whoſe uſes are ſo many, not unfold</l>
+                  <l>Them all can any man; from Winters cold</l>
+                  <l>It keeps their Houſes thatch'd with 't, &amp; its mats</l>
+                  <l>For bedding makes, with baskets, brooms, &amp; hats</l>
+                  <l>Nay more, it Cordage doth afford, in 'ts top</l>
+                  <l>A Cabbage grows, for meat, and do but lop</l>
+                  <l>Or bore a hole in't, you may plainly ſee</l>
+                  <l>A pleaſant Liquor flowing from the Tree;</l>
+                  <pb n="9" facs="tcp:49521:9"/>
+                  <l>It's fruit is luſcious, whoſe ſtone's black as Jett,</l>
+                  <l>Will make neat Buttons, if with Silver ſet;</l>
+                  <l>And its dry Leaves will ſerve in darkſom night</l>
+                  <l>In ſtead of Torches, Travellers to light.</l>
+                  <l>Of all the Trees that is, or
+<note n="(g)" place="bottom">
+                        <hi>The</hi> Palmeta <hi>Tree is a ſtraight Tree, about the height of an Apple Tree, growing with broad Leaves at the top, cloſed together in manner of a Fann, which they put to ſeveral uſes more than I can here relate.</hi>
+                     </note> ever were,</l>
+                  <l>None to the ſtraight <hi>Palmeta</hi> may compare.</l>
+                  <l>The lofty fragrant <hi>Cedars</hi> here
+<note n="(h)" place="bottom">Cedar <hi>Gumm as hath been often experienc'd, is good for Gonorrhea's, the Berries which are like Ju<g ref="char:EOLhyphen"/>niper Berries, are of the ſame nature as Juniper Ber<g ref="char:EOLhyphen"/>ries are, they boyl them in water and make Drink for their conſtant uſe of it.</hi>
+                     </note> do grow,</l>
+                  <l>The Vertues of whoſe Fruits and Gums to know</l>
+                  <l>Requires a larger time; here you may ſee</l>
+                  <l>The <hi>Lime,</hi> the <hi>Lemmon,</hi> and the <hi>Orange</hi> tree;</l>
+                  <l>So fam'd throughout the world, here at one time</l>
+                  <l>Buds, bloſſoms, green, &amp; ripe Fruit in the prime;</l>
+                  <pb n="10" facs="tcp:49521:10"/>
+                  <l>
+                     <hi>Pomgranates, Gwavers, Papawes, Fig</hi>-trees too,</l>
+                  <l>Whereof a Pleaſant kinde of Drink they brew,</l>
+                  <l>With <hi>Mulberries</hi> likewiſe; but if I may</l>
+                  <l>Call it a Tree, the <hi>Pine</hi> bears
+<note n="(i)" place="bottom">Pine <hi>are much after the Figure of a Sceth Thiſtle, and in my minde taſte moſt like a Peach, or</hi> Mali<g ref="char:EOLhyphen"/>gotoon; <hi>they grow in low marſhy Grounds.</hi>
+                     </note> all away,</l>
+                  <l>Whoſe crowned tops &amp; bottom compaſt round,</l>
+                  <l>Seems as if it were with green Garland crown'd.</l>
+                  <l>But Oh! its delicious taſte ſurpaſſeth words</l>
+                  <l>Deep utterance; this onely Fruit affords</l>
+                  <l>All taſte of others in't you think upon,</l>
+                  <l>Pears, Apples, Peaches, Cherries, every one</l>
+                  <l>Appears int's taſte; here grows the prickle Pear</l>
+                  <l>Whoſe in-ſide of a ſcarlet
+<note n="(k)" place="bottom">Prickled Pears are of a moſt rare ſcarlet colour, but its Juice will not ſtain, for by water it may ſoon be waſht away; 'tis thought by ſome that Cochinele is produced of it.</note> colour are.</l>
+                  <l>Here's Roots as well as Trees, <hi>Potatoes</hi> good</l>
+                  <l>For ſuſtenance of man to make pure blood.</l>
+                  <pb n="11" facs="tcp:49521:10"/>
+                  <l>And here <hi>Caſſawder,</hi> to which, though it's Juice</l>
+                  <l>Be Poyſon, yet they now have a device</l>
+                  <l>To preſs and grate it, ſo in time of need</l>
+                  <l>And ſometimes elſe, they ſafely on it feed</l>
+                  <l>Being bak'd in form of Bread; here's <hi>Indian</hi>-Corn</l>
+                  <l>Whoſe weighty Eares on a long ſtalk is born;</l>
+                  <l>In thickneſs like a Cane, it Nature roul'd</l>
+                  <l>Cloſe up in Leaves, to keep it from the cold;</l>
+                  <l>Which being groun'd &amp; boyl'd, <hi>Muſh</hi> they make</l>
+                  <l>Their hungry Servants Hunger for to ſlake:</l>
+                  <l>But let me tell you, that there cannot be</l>
+                  <l>A profit without diſcommodity;</l>
+                  <l>For though no poyſonous Living thing indeed</l>
+                  <l>Inhabits there, yet grows a
+<note n="(l)" place="bottom">Poyſon-Weed, a ſhrub which runs up Trees as the Ivy, and hath poyſoned abundance of People, eſpeci<g ref="char:EOLhyphen"/>ally in wet, foggy, rainy, weather, as my ſelf can witneſs, and poyſoned ſome that hath onely lookt upon it, as many can teſtifie.</note> Poyſon-Weed,</l>
+                  <l>Whoſe very ſight infects ſome, and its Juice</l>
+                  <l>Will make men itch, as if a thouſand Lice</l>
+                  <pb n="12" facs="tcp:49521:11"/>
+                  <l>About their bodies creep, in painful Wheals</l>
+                  <l>And Pimples at the laſt it ſelf reveals,</l>
+                  <l>But never kills; Its Counterpoyſon is</l>
+                  <l>
+                     <hi>Sage of the Mountain,</hi> which you cannot miſs</l>
+                  <l>At all times for to finde, in places where</l>
+                  <l>This Weed is, for it grows to't very near.</l>
+                  <l>Of Fowls they have enough, ſuch as are Hens,</l>
+                  <l>Capons, Ducks, Turkies kooped up in Pens;</l>
+                  <l>Wild Pidgeons, and other feathered Brood,</l>
+                  <l>Some bad for nouriſhment, yet ſome are good;</l>
+                  <l>With Tropick <hi>Longtails,</hi> of
+<note n="(m)" place="bottom">
+                        <hi>Tropick Birds are call'd</hi> Longtails, <hi>from one or two Feathers longer than the reſt, about a foot or more.</hi>
+                     </note> whoſe Neſt there be</l>
+                  <l>Amongſt the rocks, a hundred Leagues to Sea</l>
+                  <l>They fly: and alſo near unto the Shore</l>
+                  <l>Plenty of Fiſh is, which the
+<note n="(n)" place="bottom">They have many more fiſhes, ſuch as Greyhound-fiſh, Rainbow-fiſh, Anchoves, though I think not the right; Cragfiſh as big as Lobſters; Oyſters, where in ſometime they find ſmall Pearl.</note> People ſtore,</l>
+                  <pb n="13" facs="tcp:49521:11"/>
+                  <l>As Pilchards, Sinnets, Gruats, and Salmon Peal,</l>
+                  <l>With Rock-fiſh, Porgoes, and the ſlippery Eel,</l>
+                  <l>And Mullets plentiful are in the ſound,</l>
+                  <l>The water flowing to them under ground,</l>
+                  <l>Being moſt ſalt, and all
+<note n="(o)" place="bottom">
+                        <hi>I believe the Iſland is hollow, for there is ſome holes that none can find the end of them, ſome hot as a Stove upon the Northerly wind, as that near</hi> Tuc<g ref="char:EOLhyphen"/>kers <hi>Town; and that there is water in them may be proved; by the Coopers Hole, the Devils Hole, and a place near</hi> Walſingham-<hi>Bay,</hi> &amp;c. <hi>which water though a good diſtance from the Sea, is as briny and as ſalt as it is, which may prove a paſſage from one into the other.</hi>
+                     </note> along the ſhore</l>
+                  <l>There are dark Caves, of a Miles length or more</l>
+                  <l>Extending under ground, in which there be</l>
+                  <l>Deep holes with water, though no one can ſee</l>
+                  <l>A paſſage for it in: Which dreadful Lakes,</l>
+                  <l>Some ſort of Fiſh do for their Refuge take;</l>
+                  <l>Beſide the foreſaid Fiſh, with
+<note n="(p)" place="bottom">
+                        <hi>The Grains are like an</hi> Engliſh <hi>Prong.</hi>
+                     </note> grains they ſtrike</l>
+                  <l>The horned Cuckold, Cunny, and one like</l>
+                  <pb n="14" facs="tcp:49521:12"/>
+                  <l>The prickled Hedge-Hog: Angel-fiſh, by light</l>
+                  <l>They carry in their Boats in darkeſt nights;</l>
+                  <l>And Groopers too, none of the meaneſt ſize,</l>
+                  <l>Which ſalted, they do ſend for Merchandize</l>
+                  <l>To the <hi>Weſt-Indian</hi> Iſlands, with their Beef,</l>
+                  <l>Which yields the Inhabitants there much relief;</l>
+                  <l>Here in the time of year, the
+<note n="(q)" place="bottom">
+                        <hi>The Whales here though they be of an indifferent large ſize, the Gills are not above one or two foot long at moſt, from whence the Whale-bone comes; ſome ſay that</hi> Sperma Ceti <hi>is the Spawn, others think that it lies in the head, but it is certainly found to be the fat of the Whale, for being put into a Lamp, and burned, it will turn to</hi> Sperma Ceti, <hi>which ſeveral in the</hi> Weſt-Indies <hi>have proved to be true, that after the</hi> Oleus <hi>part is conſumed, the ſubſtance call'd vulgarly</hi> Sperma Ceti, <hi>remains.</hi>
+                     </note> mighty Whale</l>
+                  <l>Appears upon the Coaſt, who with his Tayl</l>
+                  <l>Small Boats can over-ſet, out of whoſe Noſe</l>
+                  <l>Hogſheads of water guſhes when he blows;</l>
+                  <l>Which being ſeen on Land, in Boats they haſte</l>
+                  <l>Towards him, and their Lances ſharp make faſt</l>
+                  <pb n="15" facs="tcp:49521:12"/>
+                  <l>In his fat ſides, who being hurt, along</l>
+                  <l>The Boats draw with him dangerous Rocks among,</l>
+                  <l>Changing the water with his purple gore,</l>
+                  <l>To red, which of a pale green was afore,</l>
+                  <l>Tyring himſelf, till at the laſt to Death</l>
+                  <l>He ſtoops, and roaring yieldeth up his breath,</l>
+                  <l>When into Harbor near unto the ſhore</l>
+                  <l>Being tow'd, they cut him up themſelves to ſtore</l>
+                  <l>With Oyl out of his Blubber, which they burn</l>
+                  <l>In Lamps, and unto other uſes turn</l>
+                  <l>It on occaſion: but this ſort of Fiſh</l>
+                  <l>Is not the ſame for which they all do wiſh;</l>
+                  <l>No Whale Bones in its Gill or in its Head,</l>
+                  <l>No Soveraign <hi>Sperma Ceti</hi> here is bred;</l>
+                  <l>The difference lying, others mouths are fill'd</l>
+                  <l>With rowes of Teeth, whereas this none doth yield.</l>
+                  <l>Here's alſo Sharks, whoſe head affords a Gelly,</l>
+                  <l>Good for the Cholick, and gripes of the Belly;
+<note n="(r)" place="bottom">
+                        <hi>Sharks are here in abundance, whoſe Back-bone looks moſt like a</hi> Japan, <hi>and its wide mouth ſtands ſo, that he is fain to take his Prey lying on his back; in the cavity of his head there is a ſubſtance, which being dry'd is good for abundance of Diſeaſes, but more eſ<g ref="char:EOLhyphen"/>pecially for Gripes, and eaſy bringing women to Bed, which the Inhabitants have approved even to admira<g ref="char:EOLhyphen"/>tion, when all things elſe have fail'd.</hi>
+                     </note>
+                  </l>
+                  <pb n="16" facs="tcp:49521:13"/>
+                  <l>Being dry'd and powder'd, this ſame Fiſh they take</l>
+                  <l>As well as Whales, Oyl of his fat to make.</l>
+                  <l>Beſides theſe, many more Fiſhes are found</l>
+                  <l>About the main Land, being compaſs'd round</l>
+                  <l>With four hundred ſmall Iſlands, rather more,</l>
+                  <l>Some one, ſome two Miles diſtance from the ſhore.</l>
+                  <l>And now to write a little of the State</l>
+                  <l>Of this ſame Land, its Climate's temperate,</l>
+                  <l>Which doth produce long Life, and its degree</l>
+                  <l>Abating thirty Minutes,
+<note n="(ſ)" place="bottom">
+                        <hi>It's Latitude is</hi> 32 <hi>Degrees,</hi> 30 <hi>Minutes, and it's Longitude</hi> 316 <hi>Degrees.</hi>
+                     </note> thirty three</l>
+                  <pb n="17" facs="tcp:49521:13"/>
+                  <l>Is found for Latitude, and ſome men ſay,</l>
+                  <l>Three hundred and ſixteen Degrees make way</l>
+                  <l>From the <hi>Azores</hi> to it, to incline</l>
+                  <l>By way of Longitude, unſearched Line;</l>
+                  <l>A Governor there is, who's always ſent</l>
+                  <l>By th' Honoured Company, to the intent</l>
+                  <l>To put in force, whatever they think fit</l>
+                  <l>T' nact for good, when in the Court they ſit;</l>
+                  <l>Their Judges, Juſtices of Peace, and Shrief,</l>
+                  <l>Conſtables, Marſhals, Bayliffs, who relieve</l>
+                  <l>The oppreſs'd, and there's Captains who de<g ref="char:EOLhyphen"/>light</l>
+                  <l>Themſelves in Arms, with daring Foes to fight.</l>
+                  <l>But I forget the Miniſters, who preach</l>
+                  <l>In Churches, where young Children ſome do teach;</l>
+                  <l>But ceaſe my <hi>Muſe,</hi> for no man can unlock</l>
+                  <l>This Rock of Wonders, or this wondrous Rock,</l>
+                  <l>Which though but two Miles broad, and twenty long</l>
+                  <l>At moſt, it framed is ſo mighty ſtrong</l>
+                  <pb n="18" facs="tcp:49521:14"/>
+                  <l>By Art and Nature, none but them who ſee,</l>
+                  <l>Can think that ſuch a place in the world to be;</l>
+                  <l>If Armies come againſt it, they may reſt</l>
+                  <l>Free from all fears, if Treaſon in their Breſt</l>
+                  <l>Do not lie lurking: But behold the Ship</l>
+                  <l>Which for to fill, our Seamen will not ſlip</l>
+                  <l>Any occaſion, But with Cedars Cheſt,</l>
+                  <l>And <hi>Ravens-foot</hi> Tobacco in
+<note n="(t)" place="bottom">Ravensfoot <hi>Tobacco, call'd ſo from its blackneſs and brightneſs, a common Proverb amongſt them, for the better Stowage.</hi>
+                     </note> them preſt,</l>
+                  <l>The Ship's Hold fills, but whatſoever be</l>
+                  <l>In Cask to ſtow between Decks they agree;</l>
+                  <l>And now the Ship's near full, we all prepare</l>
+                  <l>Our ſelves for going homeward, ſome take care</l>
+                  <l>For Fowls, fat Hogs, Corn, and Potatoes ſweet,</l>
+                  <l>Oranges, Limes, and Lemmons for to eat</l>
+                  <l>With our Proviſion homewards, ſome do think</l>
+                  <l>Of Sugar, and of Liquor for to drink</l>
+                  <l>In time of need, but all of us take care</l>
+                  <l>Our Cabbins with Oranges filled are;</l>
+                  <pb n="19" facs="tcp:49521:14"/>
+                  <l>Others of Rarities which in the Sea</l>
+                  <l>Grows, ſuch as Feathers, Black-rods, Coral be,</l>
+                  <l>Provide themſelves to give unto a friend,</l>
+                  <l>Which when arrived they unto them ſend.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Homeward bound Voyage.</head>
+               <lg>
+                  <l>THE Ship now quite full, and a Weſtern Gale,</l>
+                  <l>The Anchors being up, now fills her Sail,</l>
+                  <l>When that the glorious Raies of the bright Sun</l>
+                  <l>Through one Sign of the <hi>Zodiack</hi> had not run,</l>
+                  <l>The Pilot at the Boltſprit
+<note n="(u)" place="bottom">Pilot ſtands at the Boltſprit end becauſe there is no Land-marks, and he cuns the Ship in by the Rocks under water, luffing for one, and bearing up for a<g ref="char:EOLhyphen"/>nother; they uſually chuſe to Pilot them in or out at the Suns riſing or ſetting, becauſe then the Sun hath the leaſt reflexion.</note> end doth ſtand,</l>
+                  <l>Giving from thence the ſtrict Word of Com<g ref="char:EOLhyphen"/>mand,</l>
+                  <pb n="20" facs="tcp:49521:15"/>
+                  <l>For Port or Starboard, which he thinks moſt fit</l>
+                  <l>Her over the Sharp-pointed Rocks to get;</l>
+                  <l>The Caſtles at our parting, once again</l>
+                  <l>We do ſalute, while by them to the Main</l>
+                  <l>A Mile or two from Shore we ſoftly hie,</l>
+                  <l>Trimming our Sails on purpoſe to lie by,</l>
+                  <l>Unbending Cables, we our Anchors ſtow,</l>
+                  <l>And hoiſe our Boats in, then away we go</l>
+                  <l>Our Courſe for Eaſt, North-Eaſt we bravely ſteer,</l>
+                  <l>The wind North-Weſt is, and the weather cleer,</l>
+                  <l>So <hi>Marches</hi> twenty ſecond about Night,</l>
+                  <l>Of <hi>Summers Iſland</hi> we did loſe the ſight;</l>
+                  <l>But we not ſail'd a days time at the leaſt,</l>
+                  <l>The Wind it came unto the Eaſt, South-eaſt;</l>
+                  <l>We tack about, and to the Northward ſtand,</l>
+                  <l>Where as they ſay, the Weſt-Winds have com<g ref="char:EOLhyphen"/>mand</l>
+                  <l>Moſt of the year, but we it found not ſo,</l>
+                  <l>For Eaſt South Eaſt, and South Winds over blow</l>
+                  <l>Putting us by out Sayls we lie a hull,</l>
+                  <l>The briny Waves her almoſt filling full;</l>
+                  <pb n="21" facs="tcp:49521:15"/>
+                  <l>Upon our upper Decks, where above Hens,</l>
+                  <l>And Ducks, with Turkeys, are ſhut up in Pens;</l>
+                  <l>Which was for freſh Proviſion in ſtore,</l>
+                  <l>Of theſe are drown'd in four hours or more,</l>
+                  <l>Full ſixty ſeven, but at the length we find</l>
+                  <l>The Storms to aſſwage its fury, and the wind</l>
+                  <l>To ceaſe a little, ſo again we ſet</l>
+                  <l>Our Courſes reefed, till the Seas do get</l>
+                  <l>Abated, which are grown ſo vaſt and high,</l>
+                  <l>They ſeem to mount us to the Cloudy Sky;</l>
+                  <l>One of which ſtormy Afternoons about</l>
+                  <l>Four of the Clock, we ſaw a Water-Spout</l>
+                  <l>So fear'd by Mariners, which paſſed by</l>
+                  <l>Us with a Circling in the muddy Sky.</l>
+                  <l>Theſe Winds after about a Fortnights ſtay</l>
+                  <l>In theſe ſame bluſtring Corners, came away</l>
+                  <l>Unto the Weſtward board, where it doth blow</l>
+                  <l>So hard, again we forced are to go</l>
+                  <l>Before it with our Fore-Sail, which we tend</l>
+                  <l>With Braces aft, until the Storms do end;</l>
+                  <l>The Sea running ſo deep, we're forc'd to cun,</l>
+                  <l>Winding with Quarters, the Waves beat upon;</l>
+                  <pb n="22" facs="tcp:49521:16"/>
+                  <l>To anſwer't with our Helm, and Brace, which keeps</l>
+                  <l>Her right afore it, through the boyſtrous heaps</l>
+                  <l>Of Waters, theſe Storms eighteen hours or more</l>
+                  <l>Not laſts, but preſently a ſudden Showre</l>
+                  <l>Of Rain is poured down, when as the South.</l>
+                  <l>Wind opens loud his wide and bluſtring Mouth</l>
+                  <l>Thunder and Lightning, mixt with Hail and Rain,</l>
+                  <l>Unto the North-Weſt brings it back again;</l>
+                  <l>So that it once more ſeems, and doth appear</l>
+                  <l>As if the Weather would be fair and clear;</l>
+                  <l>But all our Hopes ſoon vaniſht, for ſo hard</l>
+                  <l>It puffs, we take in all Sayls, lo're our Yard</l>
+                  <l>Till better comes, and this I dare affirm</l>
+                  <l>Ne're worſer Weather's for a three Weeks term,</l>
+                  <l>In which ſpace never having any Weather</l>
+                  <l>We could count fair, for thirty Hours together;</l>
+                  <l>Our onely comfort was, the Moon ſhines bright</l>
+                  <l>During this guſty time, moſt part of Night;</l>
+                  <pb n="23" facs="tcp:49521:16"/>
+                  <l>But dreadful Storms, not always cruel Fate,</l>
+                  <l>To us poor Saylors, did predeſtinate;</l>
+                  <l>For when fair Weather was to make us glad,</l>
+                  <l>Our Oranges ſo rotten, caus'd a ſad</l>
+                  <l>And heavy Countenance, ſcarce being found</l>
+                  <l>One amongſt twelve, which we may call ſound</l>
+                  <l>As to keep home, for ſince the World began</l>
+                  <l>See ſuch a Hodge-Podge ne're did any man;</l>
+                  <l>Moſt part being pickl'd up in ſuch a ſtate,</l>
+                  <l>We bad from good with Shovels ſeparate,</l>
+                  <l>We took them in with Care beſtowing Pains</l>
+                  <l>To place them lightly, now as much again</l>
+                  <l>We take, for Baskets with the bad we fill</l>
+                  <l>To fling away, though ſore againſt our Will;</l>
+                  <l>And now the Weſtern Iſlands once more we</l>
+                  <l>Repaſs with a fair Wind, hoping to ſee</l>
+                  <l>No ſuch bad Weather as we had before,</l>
+                  <l>To which end, we the Deities implore,</l>
+                  <l>And ſurely they our Oriſons did hear,</l>
+                  <l>Moſt of the Weather being fair and clear;</l>
+                  <l>Though that the freſh Gales oftentimes were ran<g ref="char:EOLhyphen"/>ging</l>
+                  <l>From one unto another, changing</l>
+                  <pb n="24" facs="tcp:49521:17"/>
+                  <l>Till <hi>Luna</hi> came ſo full butt at her wane,</l>
+                  <l>A South, and South South-weſt wind came again</l>
+                  <l>Which though 'twas for us fair, yet it was joyn'd</l>
+                  <l>With dirty Weather, as 'twere interloin'd</l>
+                  <l>For us, amongſt the reſt, one foggy day</l>
+                  <l>A <hi>Briſtol</hi> Ship we meet, for th' Iſle of <hi>May</hi>
+                  </l>
+                  <l>Being bound, there Salt to load, who did us tell</l>
+                  <l>Affairs in <hi>England</hi> went then very well</l>
+                  <l>When ſhe came out, with <hi>France</hi> we having Peace,</l>
+                  <l>And all War with our Neighbouring Nations ceaſe,</l>
+                  <l>He told us alſo, how that <hi>England</hi> bore</l>
+                  <l>From us of Leagues, about two times fourſcore</l>
+                  <l>Upon the North-Eaſt Point, and having ſent</l>
+                  <l>Letters by us to's Friends, away he went;</l>
+                  <l>And now we're near our wiſh'd-for Port, we pray</l>
+                  <l>For <hi>Sol</hi>'s bright Splendor, in the midſt of day,</l>
+                  <l>An Obſervation that we may take</l>
+                  <l>Before our Native Land, again we make,</l>
+                  <pb n="25" facs="tcp:49521:17"/>
+                  <l>But thoſe our wiſhes we could not obtain,</l>
+                  <l>For miſty Clouds to us yet ſtill remain,</l>
+                  <l>With guſts, but th' water changing, we did ſound</l>
+                  <l>On <hi>Eaſter</hi> Ev'ning, and had the ground</l>
+                  <l>At ninety Fathom, <hi>Greekiſh</hi> Shelly-ſand,</l>
+                  <l>Reckoning our ſelves then threeſcore Leagues from Land;</l>
+                  <l>And ſeeing the warm Sun us debars</l>
+                  <l>Of ſweeteſt ſight, at Noon the Northern Stars</l>
+                  <l>We do obſerve, with his two Guards moſt bright,</l>
+                  <l>Which gliſtred on Sunday and Mundy Night;</l>
+                  <l>Which tho' 'twas truly done, next day we had</l>
+                  <l>A <hi>Solar</hi> Obſervation, vvhich us glad</l>
+                  <l>Did make (although the Wind contrary blew;</l>
+                  <l>For by't how <hi>Scilly</hi> bore w' exactly knew,</l>
+                  <l>And that they <hi>Channel</hi>'s open, the Degree</l>
+                  <l>Being forty nine, with Minutes nine times three,</l>
+                  <l>At which time vve let run the Lead, and found</l>
+                  <l>That ſixty Fathom reached to the Ground.</l>
+                  <l>Another certain ſign is, that the Shore</l>
+                  <l>Not many Leagues is off; for Weeds great ſtore,</l>
+                  <pb n="26" facs="tcp:49521:18"/>
+                  <l>Call'd <hi>Brittain Beds,</hi> upon the Seas do float,</l>
+                  <l>Which unto Seamen is a certain
+<note n="(x)" place="bottom">Britain Beds <hi>are Weeds like to Laces, which grow upon the Coaſt of</hi> Britain, <hi>and ſo are waſht off from the Rocks into the Sea.</hi>
+                     </note> Note</l>
+                  <l>Of being in our Channel, all Night we</l>
+                  <l>Bare in, and about twelve at Noon we ſee</l>
+                  <l>The <hi>Lizard,</hi> which we paſt by with a Gale</l>
+                  <l>So gentle, that we carry all the Sail</l>
+                  <l>Which we can make, and parted about Night</l>
+                  <l>From ſight of <hi>Falmouth,</hi> and by it was light</l>
+                  <l>We're near unto the <hi>Start,</hi> having paſt by</l>
+                  <l>
+                     <hi>Portland,</hi> the <hi>Wight,</hi> and alſo <hi>Beachy-High,</hi>
+                  </l>
+                  <l>With <hi>Fairly, Foulſtone, Dover,</hi> without ſtay,</l>
+                  <l>A Pilot came aboard, us to convey,</l>
+                  <l>So we hoyſe up our Sails atrip, and came</l>
+                  <l>To <hi>Weſtgate</hi>-Bay, and anchored in the ſame</l>
+                  <l>Till the next morning, when our Sails we ſet</l>
+                  <l>And the ſame Tide over the <hi>Flatts</hi> we get</l>
+                  <l>Up to the Rivers Mouth, from thence to <hi>Lee,</hi>
+                  </l>
+                  <l>So to <hi>Whole Haven,</hi> and to <hi>Tilbury;</hi>
+                  </l>
+                  <pb n="27" facs="tcp:49521:18"/>
+                  <l>But ceaſe my <hi>Muſe,</hi> the Voyage it is done,</l>
+                  <l>At <hi>Graveſend</hi> let it end, as there't begun.</l>
+               </lg>
+               <trailer>Finis Itineris Maritini.</trailer>
+            </div>
+         </div>
+         <div type="epilogue">
+            <head>The Epilogue.</head>
+            <lg>
+               <l>NOthing doth remain, but to give Praiſe</l>
+               <l>To God, who to us Mortals many days</l>
+               <l>His Favours and his Bleſſings did beſtow</l>
+               <l>On whatſoe're we do, where e're we go,</l>
+               <l>By Land, by Sea, in Storms, moſt bitter Blaſts,</l>
+               <l>In Thunder, Lightning, and in Nights o're-caſt</l>
+               <l>With diſmal Clouds, and from the briny Waves</l>
+               <l>Moſt dreadful Fury, with what e're we crave</l>
+               <pb facs="tcp:49521:19"/>
+               <l>Hath granted to us, then let's with one near<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Set forth his Praiſe till this Life we depart;</l>
+               <l>Let all Hands ſay <hi>Amen, Amen</hi> ſay I,</l>
+               <l>So be it done to Immortality.</l>
+            </lg>
+            <trailer>
+               <hi>Finis Coronat Opus.</hi> J. H.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
